@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="28"
-   height="28"
-   viewBox="0 0 7.4083332 7.4083335"
+   width="128"
+   height="128"
+   viewBox="0 0 33.866669 33.866667"
    version="1.1"
    id="svg3769"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="activities.svg">
+   sodipodi:docname="gnome-logo-white.svg">
   <defs
      id="defs3763" />
   <sodipodi:namedview
@@ -25,10 +25,10 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="15.839192"
-     inkscape:cx="24.922418"
-     inkscape:cy="14.2265"
-     inkscape:document-units="mm"
+     inkscape:zoom="2.8"
+     inkscape:cx="168.63063"
+     inkscape:cy="45.976046"
+     inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
@@ -53,38 +53,38 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-289.59165)">
+     transform="translate(-1.0944199,-262.59458)">
     <g
-       transform="matrix(0.04474604,0,0,0.04474604,1.5789642,290.68515)"
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-miterlimit:4"
+       transform="matrix(0.26400165,0,0,0.26400165,4.8937791,263.97415)"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-miterlimit:4"
        id="g3771">
       <g
-         style="fill:#000000;fill-opacity:1"
+         style="fill:#ffffff;fill-opacity:1"
          id="g3773">
         <path
            inkscape:connector-curvature="0"
            d="M 86.068,0 C 61.466,0 56.851,35.041 70.691,35.041 84.529,35.041 110.671,0 86.068,0 Z"
-           style="fill:#000000;fill-opacity:1"
+           style="fill:#ffffff;fill-opacity:1"
            id="path3775" />
         <path
            inkscape:connector-curvature="0"
            d="M 45.217,30.699 C 52.586,31.149 60.671,2.577 46.821,4.374 32.976,6.171 37.845,30.249 45.217,30.699 Z"
-           style="fill:#000000;fill-opacity:1"
+           style="fill:#ffffff;fill-opacity:1"
            id="path3777" />
         <path
            inkscape:connector-curvature="0"
            d="M 11.445,48.453 C 16.686,46.146 12.12,23.581 3.208,29.735 -5.7,35.89 6.204,50.759 11.445,48.453 Z"
-           style="fill:#000000;fill-opacity:1"
+           style="fill:#ffffff;fill-opacity:1"
            id="path3779" />
         <path
            inkscape:connector-curvature="0"
            d="M 26.212,36.642 C 32.451,35.37 32.793,9.778 21.667,14.369 10.539,18.961 19.978,37.916 26.212,36.642 Z"
-           style="fill:#000000;fill-opacity:1"
+           style="fill:#ffffff;fill-opacity:1"
            id="path3781" />
         <path
            inkscape:connector-curvature="0"
            d="m 58.791,93.913 c 1.107,8.454 -6.202,12.629 -13.36,7.179 C 22.644,83.743 83.16,75.088 79.171,51.386 75.86,31.712 15.495,37.769 8.621,68.553 3.968,89.374 27.774,118.26 52.614,118.26 c 12.22,0 26.315,-11.034 28.952,-25.012 C 83.58,82.589 57.867,86.86 58.791,93.913 Z"
-           style="fill:#000000;fill-opacity:1"
+           style="fill:#ffffff;fill-opacity:1"
            id="path3783" />
       </g>
     </g>

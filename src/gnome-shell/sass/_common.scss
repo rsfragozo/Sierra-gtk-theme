@@ -1670,7 +1670,7 @@ $slider_color: if($variant == 'light', $accent_color, white);
 
   .show-apps {
     & .overview-icon {
-    background-image: url("assets/startup.png") !important;
+    background-image: url("assets/gnome-logo-white.svg") !important;
     background-size: contain;
    }
   }
